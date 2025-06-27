@@ -1,0 +1,22 @@
+{
+  "name": "p3neymar",
+  "version": "1.0.0",
+  "description": "p3neymar",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmlebc/p3neymar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gmlebc/p3neymar/issues"
+  },
+  "homepage": "https://github.com/gmlebc/p3neymar#readme"
+}
